@@ -1,0 +1,1 @@
+# vuegg-assets
